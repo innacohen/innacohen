@@ -1,9 +1,9 @@
-![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)
+![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 
 <h1 align="center">Hi 👋, I'm Inna Cohen</h1>
 <h3 align="center">Budding Clinical Data-Analyst & Epidemiologist</h3>
 
-<img align="right" alt="health" width="400" src="https://i.pinimg.com/originals/d4/55/e3/d455e3be112235e6f70ce41be9ffd6d2.gif">
+<img align="right" alt="health" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innacohen&label=Profile%20views&color=0e75b6&style=flat" alt="innacohen" /> </p>
