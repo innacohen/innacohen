@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innacohen&label=Profile%20views&color=0e75b6&style=flat" alt="innacohen" /> </p>
 
-- 🌱 I’m currently learning **GIS, Machine Learning in R/Python, MATLAB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
