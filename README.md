@@ -1,7 +1,7 @@
 ![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 
 <h1 align="center">Hi 👋, I'm Inna Cohen</h1>
-<h3 align="center">Budding Clinical Data-Analyst & Epidemiologist</h3>
+<h3 align="center"> Clinical Data-Analyst</h3>
 
 <img align="right" alt="health" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
